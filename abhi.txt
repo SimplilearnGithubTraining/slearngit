@@ -1,2 +1,2 @@
 Some changes to Abhi.txt 
-from github and git!!!
+from Github and Git!!!
